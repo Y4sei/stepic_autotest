@@ -1,2 +1,3 @@
 # stepic_autotest
-Homework autotest
+Это репозиторий для хранения домашних работ по курсу автоматизация тестирования на степике
+https://stepik.org/lesson/222929/step/1?unit=196191
